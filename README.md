@@ -1,2 +1,2 @@
 # plug-nlp
-Simple Python Natural Language Processing tools.
+Python Natural Language Processing tools that simply work.
